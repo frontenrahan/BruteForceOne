@@ -39,4 +39,4 @@ $ cd BruteForceOne
 $ python index.py
 ```
 
-<img src="Logo.jpg" width="100%"/>
+<img src="Logo.png" width="100%"/>
